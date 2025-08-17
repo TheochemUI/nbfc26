@@ -4,25 +4,23 @@ canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
-title = "2nd WORKSHOP ON EXCITED-STATE METHODS (Toulouse, 8-10 Apr 2025)"
+title = "16th NBFC, June 29 - July 1 2026, University of Iceland"
 [Params]
-  hometitle = "EMERGING EXCITED-STATE METHODS IN ELECTRONIC STRUCTURE"
-  logo="img/PTEROSOR.png"
-#  subtitle = ""
+  hometitle = "16th NORDIC BALTIC FEMTOCHEMISTRY CONFERENCE"
+  # logo="img/ui_logo.png"
+  subtitle = "June 29 - July 1 2026, University of Iceland"
 [[Params.bigimg]]
-  src = "img/conf.jpg"
-  desc = "2nd WORKSHOP ON EXCITED-STATE METHODS"
+  src = "img/reykjavik_panorama.jpg"
+  desc = "NBFC 2026"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
  [Author]
-   name = "PTEROSOR"
-   email = "loos@irsamc.ups-tlse.fr"
-   github = "pfloos"
-   twitter = "PTEROSOR"
-   youtube = "channel/UCPUtUMqEM3K5sYcMJGTd_Bg"
+   name = "NBFC2026"
+   email = "giale@hi.is"
+   github = "theochemui"
 
 [[menu.main]]
     name = "Home"
