@@ -10,6 +10,13 @@
     <webMaster>giale@hi.is (NBFC2026)</webMaster>
     <atom:link href="https://theochemui.github.io/nbfc26/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title> Information for Sponsors</title>
+      <link>https://theochemui.github.io/nbfc26/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (NBFC2026)</author>
+      <guid>https://theochemui.github.io/nbfc26/sponsors/</guid>
+      <description>The 16th Nordic Baltic Femtochemistry Conference (NBFC) is scheduled to take place from June 29 to July 1, 2026 in Reykjavík, Iceland.&#xA;The Nordic Baltic Femtochemistry Conference has established itself as a recognized platform for the ultrafast science community, typically attracting around 100 participants from the Nordic and Baltic countries, as well as from elsewhere. NBFC 2026, hosted for the first time at the University of Iceland in Reykjavík, will highlight the latest developments in ultrafast chemistry, physics, and materials science, as well as advancements in optical and X-ray techniques and for experiments with atto- and femtosecond resolution.</description>
+    </item>
+    <item>
       <title>Location</title>
       <link>https://theochemui.github.io/nbfc26/map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (NBFC2026)</author>
@@ -36,13 +43,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (NBFC2026)</author>
       <guid>https://theochemui.github.io/nbfc26/planning/</guid>
       <description>Tuesday, April 8, 2025 TIME EVENT 9:00 - 9:30 Welcome coffee SESSION 1 Chair: Johannes Tölle 9:30 - 10:00 Ida-Marie Høyvik &amp;ndash; Charge localized electronic wave functions for ground and excited states 10:00 - 10:30 Filippo Lippaniri &amp;ndash; An efficient and robust implementation of CASSCF linear response theory 10:30 - 11:00 Coffee break 11:00 - 11:30 Thomas Duguet &amp;ndash; Ab initio description of collective excitations in doubly open-shell nuclei 11:30 - 12:00 Janus Eriksen &amp;ndash; Third-Generation Many-Body Expanded Full Configuration Interaction Theory 12:00 - 12:30 Trygve Helgaker &amp;ndash; A variational reformulation of excitation energies and other molecular properties in electronic-structure theory 12:30 - 14:00 Lunch break &amp;amp; Posters SESSION 2 Chair: Sara Giarrusso 14:00 - 14:30 Fabian Faulstich &amp;ndash; Exploring Ground and Excited States Via Single Reference Coupled-Cluster Theory and Algebraic Geometry 14:30 - 15:00 Mathieu Lewin &amp;ndash; How to define and find excited states in nonlinear models 15:00 - 15:30 15:30 - 16:00 Coffee break 16:00 - 16:30 Eric Cances &amp;ndash; Direct optimization methods for CASSCF ground and excited states 16:30 - 17.</description>
-    </item>
-    <item>
-      <title>Sponsors</title>
-      <link>https://theochemui.github.io/nbfc26/sponsors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (NBFC2026)</author>
-      <guid>https://theochemui.github.io/nbfc26/sponsors/</guid>
-      <description>MAIN SPONSOR This workshop has received funding from the European Research Council (ERC) under the European Union&amp;rsquo;s Horizon 2020 research and innovation programme (Grant agreement No. 863481).&#xA;OTHER SPONSORS CNRS LCPQ </description>
     </item>
   </channel>
 </rss>
