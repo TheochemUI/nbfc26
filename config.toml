@@ -27,25 +27,25 @@ title = "16th NBFC, June 29 - July 1 2026, University of Iceland"
     url = ""
     weight = 1
 
-[[menu.main]]
-    name = "Program"
-    url = "planning"
-    weight = 2
+#[[menu.main]]
+#    name = "Program"
+#    url = "planning"
+#    weight = 2
 
- [[menu.main]]
-     name="Posters"
-     url = "posters"
-     weight = 3
+# [[menu.main]]
+#     name="Posters"
+#     url = "posters"
+#     weight = 3
 
-[[menu.main]]
-    name = "Location"
-    url = "map"
-    weight = 4
+#[[menu.main]]
+#    name = "Location"
+#    url = "map"
+#    weight = 4
 
-[[menu.main]]
-    name = "Participants"
-    url = "participants"
-    weight = 5
+#[[menu.main]]
+#    name = "Participants"
+#    url = "participants"
+#    weight = 5
 
 [[menu.main]]
     name = "Sponsors"
