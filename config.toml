@@ -48,6 +48,11 @@ title = "16th NBFC, June 29 - July 1 2026, University of Iceland"
 #    weight = 5
 
 [[menu.main]]
+    name = "Venue"
+    url = "venue"
+    weight = 5
+
+[[menu.main]]
     name = "Sponsors"
     url = "sponsors"
     weight = 6
