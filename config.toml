@@ -52,3 +52,8 @@ title = "16th NBFC, June 29 - July 1 2026, University of Iceland"
     url = "sponsors"
     weight = 6
 
+[[menu.main]]
+    name = "Contacts"
+    url = "contacts"
+    weight = 7
+

@@ -1,5 +1,5 @@
 ---
-title: " Information for Sponsors"
+title: "Information for Sponsors"
 draft: false
 ---
 
