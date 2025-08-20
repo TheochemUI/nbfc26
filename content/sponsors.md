@@ -41,13 +41,13 @@ Each commercial exhibitor will receive:
 scientific sessions
 - Exhibition booth with chairs 
 - Brand exposure in conference advertising, online program and website 
-- The list of the registered delegates
+- List of the registered delegates
 
 Additional exhibitor registrations are available upon request.
 
 **Exhibition Booking Conditions**
 
-**Assingment of Space**  
+**Assignment of Space**  
 Stands will be allocated by the organizers strictly by order of arrival of the booking forms. The organization will 
 confirm directly to the exhibitor their allocated space.
 
