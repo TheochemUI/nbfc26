@@ -34,13 +34,13 @@ knowledge in our field.
 Thank you for considering our invitation. We look forward to collaborating with you and making NBFC 2026 a resounding 
 success.
 
-**Exhibitor Package 1500 €**
+**Exhibitor Package 1700 €**
 
 Each commercial exhibitor will receive:
-- Two complimentary registrations for the booth attendants, including refreshments, lunches, and the conference program
+- Two complimentary registrations for the booth attendants, including refreshments, lunches, and attendance to the 
+scientific sessions
 - Exhibition booth with chairs 
 - Brand exposure in conference advertising, online program and website 
-- Company logo and exhibitor listing in conference advertising and on the website 
 - The list of the registered delegates
 
 Additional exhibitor registrations are available upon request.

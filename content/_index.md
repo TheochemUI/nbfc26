@@ -25,7 +25,7 @@ femtosecond spectroscopy remains central to this field, the advent of attosecond
 in the exploration of electronic motion.
 
 The Nordic and Baltic countries play a leading role in ultrafast science, building on cutting-edge facilities and 
-close collaborations, spanning experiment and theory. NBFC 2026 will bring together experts from across the region to 
+close collaborations, spanning experiment and theory. NBFC 2026 will bring together experts in the field to 
 share and discuss the latest advances in the field, and foster collaborations within our scientific community. Topics 
 covered will include dynamics in the gas phase, liquids and at surfaces, polaritonic dynamics, as well as energy and 
 charge transfer in biological and artificial systems. The conference will highlight the latest directions in 
