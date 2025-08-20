@@ -36,7 +36,7 @@ landscape. We invite both established and early career researchers from the Nord
 participate. For the program, registration, and abstract submission, please stay tuned to the 
 [conference website](https://theochemui.github.io/nbfc26/). 
 
-We look forward to welcoming you to Reykjavík for NBFC 2026 !
+We look forward to welcoming you to Reykjavík for NBFC 2026!
 
 **Local organizers**
 - Gianluca Levi
