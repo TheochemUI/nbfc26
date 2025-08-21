@@ -1,0 +1,66 @@
+<div class="nbfc-wrap">
+  <!-- absolute-positioned holder to the RIGHT of the card -->
+  <div class="nbfc-rail-holder">
+    <aside class="nbfc-sponsors">
+      <h5 class="nbfc-sponsors__title">
+        {{ with .Site.Params.sponsorsTitle }}{{ . }}{{ else }}Sponsored by{{ end }}
+      </h5>
+      <div class="nbfc-sponsors__logos">
+        {{ range .Site.Params.sponsors }}
+          <a href="{{ .url }}" target="_blank" rel="noopener">
+            <img src="{{ .logo | relURL }}" alt="{{ .name }}">
+          </a>
+        {{ end }}
+      </div>
+    </aside>
+  </div>
+
+  <!-- your page content -->
+  <div class="nbfc-main">
+    {{ .Page.RenderString (dict "display" "block") .Inner }}
+  </div>
+</div>
+
+<style>
+/* The page card wrapper */
+.nbfc-wrap{
+  position: relative;
+  overflow: visible;            /* allow the rail to sit outside the grey card */
+}
+
+/* Holder lives OUTSIDE the card, aligned to its right edge */
+.nbfc-rail-holder{
+  position: absolute;
+  top: 0;
+  right: 100%;                   /* start at the card’s right edge */
+  margin-right: 48px;            /* gap between card and rail */
+  width: 300px;                 /* rail width – tweak as needed */
+  pointer-events: none;         /* so clicks pass through empty area */
+}
+
+/* The actual rail is sticky inside the holder */
+.nbfc-sponsors{
+  position: sticky;
+  top: 90px;                    /* stick distance from top of viewport */
+  pointer-events: auto;         /* re-enable clicks for links/logos */
+}
+
+/* Basic styling */
+.nbfc-sponsors__title{ margin:0 0 .5rem 0; font-weight:600; font-size:1.5rem; }
+.nbfc-sponsors__logos a{ display:block; margin-bottom:.75rem; }
+.nbfc-sponsors__logos img{
+  max-width:100%; height:auto; display:block;
+  opacity:.95; filter:grayscale(20%); transition:opacity .15s, filter .15s;
+}
+.nbfc-sponsors__logos img:hover{ opacity:1; filter:none; }
+
+/* Mobile: stack back inside the flow */
+@media (max-width: 991px){
+  .nbfc-rail-holder{
+    position: static;
+    width: auto;
+    margin: 0 0 1rem 0;
+  }
+  .nbfc-sponsors{ position: static; }
+}
+</style>

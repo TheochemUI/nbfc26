@@ -3,6 +3,8 @@ title: "Home"
 draft: false
 ---
 
+{{< sponsors >}}
+
 ## NEWS
 
 [//]: # (* **Apr 2025:** The workshop is over. Thank you everyone for coming!)
@@ -51,5 +53,6 @@ We look forward to welcoming you to Reykjavík for NBFC 2026!
 - Martin Meedom Nielsen (Technical University of Denmark)
 - Tönu Pullerits (Lund University)
 
+{{< /sponsors >}}
 
 [//]: # (## CONFIRMED INVITED SPEAKERS)
