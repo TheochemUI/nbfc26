@@ -9,7 +9,7 @@ bulding at University of Iceland.
 
 The address is Brynjólfsgata 1, 107 Reykjavík.
 <br><br>
-<img src="/img/verold.jpg" width="650">
+<img src="/img/verold_2.png" width="650">
 <style>
   .map-container {
     margin: 32px auto;            /* centers the block */
