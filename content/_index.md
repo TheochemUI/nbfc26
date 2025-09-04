@@ -47,6 +47,7 @@ We look forward to welcoming you to Reykjavík for NBFC 2026!
 
 **International Advisory Board**
 - Arvi Freiberg (University of Tartu)
+- Darius Abramavičius (Vilnius University)
 - Hannes Jónsson (University of Iceland)
 - Ida-Marie Høyvik (Norwegian University of Science and Technology)
 - Janne Ihalainen (University of Jyväskylä)
