@@ -10,7 +10,7 @@ draft: false
 [//]: # (* **Apr 2025:** The workshop is over. Thank you everyone for coming!)
 [//]: # (* **Mar 2025:** A workshop is one month away. Everything's looking good. See you soon in Toulouse.)
 [//]: # (* **Feb 2025:** A preliminary version of the program is now available &#40;still subject to change&#41;.)
-[//]: # (* **Sep 2024:** The list of invited speakers is complete.)
+* **Sep 2025:** The **[list of confirmed invited speakers](#speakers)** has been published.
 * **Aug 2025:** The conference website is online.
 
 ## THE CONFERENCE
@@ -56,4 +56,15 @@ We look forward to welcoming you to Reykjavík for NBFC 2026!
 
 {{< /sponsors >}}
 
-[//]: # (## CONFIRMED INVITED SPEAKERS)
+## CONFIRMED INVITED SPEAKERS {#speakers}
+- Luis Bañares (Universidad Complutense de Madrid)
+- Martin Beye (Stockholm University)
+- Emmanuel Fromager (University of Strasbourg)
+- Juergen Hauer (Technical University of Munich)
+- Adam Kirrander (University of Oxford)
+- Henrik Koch (Norwegian University of Science and Technology)
+- Markus Kowalewski (Stockholm University)
+- Nanna Holmgaard List (KTH & University of Birmingham)
+- Michael Odelius (Stockholm University)
+- Jussi Toppari (University of Jyväskylä)
+- Simon Wall (Aarhus University)
