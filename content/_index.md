@@ -67,5 +67,6 @@ We look forward to welcoming you to Reykjavík for NBFC 2026!
 - Markus Kowalewski (Stockholm University)
 - Nanna Holmgaard List (KTH & University of Birmingham)
 - Michael Odelius (Stockholm University)
+- Sakura Pascarelli (European XFEL)
 - Jussi Toppari (University of Jyväskylä)
 - Simon Wall (Aarhus University)
