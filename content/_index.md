@@ -59,6 +59,7 @@ We look forward to welcoming you to Reykjavík for NBFC 2026!
 ## CONFIRMED INVITED SPEAKERS {#speakers}
 - Luis Bañares (Universidad Complutense de Madrid)
 - Martin Beye (Stockholm University)
+- Francesca Calegari (Desy & University of Hamburg)
 - Emmanuel Fromager (University of Strasbourg)
 - Juergen Hauer (Technical University of Munich)
 - Adam Kirrander (University of Oxford)
