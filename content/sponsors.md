@@ -24,15 +24,11 @@ innovations and engage directly with researchers who share a profound interest i
 time-resolved techniques.
 
 If your company is keen on seizing this opportunity and contributing to the success of NBFC 2026, we kindly request 
-you to get in touch with us at your earliest convenience. Our team is more than happy to discuss the available 
-sponsorship packages and tailor them to suit your specific requirements.
+you to get in touch with us at your earliest convenience. We look forward to the possibility of your company joining us 
+as a sponsor at NBFC 2026. Your participation will enrich the overall experience for all attendees and 
+contribute to advancements in our field.
 
-In conclusion, we look forward to the possibility of your company joining us as an esteemed sponsor at NBFC 2026. 
-Your participation will undoubtedly enrich the overall experience for all attendees and contribute to the advancement of 
-knowledge in our field.
-
-Thank you for considering our invitation. We look forward to collaborating with you and making NBFC 2026 a resounding 
-success.
+Thank you for considering our invitation. We look forward to collaborating with you!
 
 **Exhibitor Package 1700 €**
 
