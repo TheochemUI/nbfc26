@@ -60,6 +60,7 @@ We look forward to welcoming you to Reykjavík for NBFC 2026!
 - Luis Bañares (Universidad Complutense de Madrid)
 - Martin Beye (Stockholm University)
 - Francesca Calegari (Desy & University of Hamburg)
+- Basile Curchod (University of Bristol)
 - Emmanuel Fromager (University of Strasbourg)
 - Juergen Hauer (Technical University of Munich)
 - Adam Kirrander (University of Oxford)
