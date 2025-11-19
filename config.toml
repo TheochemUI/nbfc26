@@ -15,6 +15,10 @@ title = "16th NBFC, June 29 - July 1 2026, University of Iceland"
     name = "SENS"
     url  = "https://english.hi.is/about-ui/schools-and-faculties/school-engineering-and-natural-sciences"
     logo = "img/sens_logo_2.jpg"
+    [[Params.sponsors]]
+    name = "Light Conversion"
+    url  = "https://lightcon.com/"
+    logo = "img/LC_logo.png"
 
 [[Params.bigimg]]
   src = "img/reykjavik_panorama.jpg"
