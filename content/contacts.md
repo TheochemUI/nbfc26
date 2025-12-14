@@ -3,9 +3,9 @@ title: "Contacts"
 draft: false
 ---
 
-**Local organizers**
-- Gianluca Levi
-- Elvar Örn Jónsson
-- Hannes Jónsson
+E-mail: [nbfc2026@gmail.com](mailto:nbfc2026@gmail.com)
 
-E-mail: [giale@hi.is](mailto:giale@hi.is), [elvarorn@hi.is](mailto:elvarorn@hi.is)
+**Local organizers**
+- Gianluca Levi ([giale@hi.is](mailto:giale@hi.is))
+- Elvar Örn Jónsson ([elvarorn@hi.is](mailto:elvarorn@hi.is))
+- Hannes Jónsson

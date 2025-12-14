@@ -3,7 +3,6 @@ title: "Venue"
 draft: false
 ---
 
-## VENUE
 The **16th Nordic Baltic Femtochemistry Conference** will take place in the lecture hall of the Veröld - House of Vigdís
 bulding at University of Iceland. 
 
@@ -44,3 +43,32 @@ offer hotel drop-offs. Tickets can be purchased online in advance or at kiosks i
 
 Within the city, you can use [public transport](https://www.straeto.is/en), or rent an
 [electric scooter](https://hopp.bike/).
+
+<a id="conference-dinner"></a>
+## CONFERENCE DINNER
+The conference dinner will take place on **Tuesday, June 30**, at [La Primavera](https://laprimavera.is/harpa/) 
+restaurant, located in the iconic **Harpa Concert Hall and Conference Centre**, offering beautiful views over 
+Reykjavík's harbour.
+<br><br>
+<div style="display:flex; flex-wrap:nowrap; gap:16px; align-items:stretch;">
+  <img src="/img/harpa_interior.jpg"
+       alt="Harpa interior"
+       style="width:60%; height:auto; display:block; object-fit:cover;">
+  <img src="/img/la_primavera.jpeg"
+       alt="La Primavera"
+       style="width:48%; height:auto; display:block; object-fit:cover;">
+</div>
+
+<div style="margin-top:16px;">
+  <img src="/img/harpa_exterior.png"
+       alt="Harpa exterior"
+       style="width:110%; max-width:900px; height:auto; display:block; margin:0 auto;">
+</div>
+
+<style>
+  /* Stack on small screens */
+  @media (max-width: 800px) {
+    div[style*="flex-wrap:nowrap"] { flex-wrap: wrap !important; }
+    div[style*="flex-wrap:nowrap"] img { width: 100% !important; }
+  }
+</style>
