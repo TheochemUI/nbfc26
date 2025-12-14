@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://theochemui.github.io/nbfc26/abstract-form/</loc>
+  </url><url>
+    <loc>https://theochemui.github.io/nbfc26/registration-form/</loc>
+  </url><url>
+    <loc>https://theochemui.github.io/nbfc26/abstract/</loc>
+  </url><url>
     <loc>https://theochemui.github.io/nbfc26/categories/</loc>
   </url><url>
     <loc>https://theochemui.github.io/nbfc26/contacts/</loc>
@@ -10,13 +16,13 @@
   </url><url>
     <loc>https://theochemui.github.io/nbfc26/sponsors/</loc>
   </url><url>
-    <loc>https://theochemui.github.io/nbfc26/map/</loc>
-  </url><url>
     <loc>https://theochemui.github.io/nbfc26/participants/</loc>
   </url><url>
     <loc>https://theochemui.github.io/nbfc26/posters/</loc>
   </url><url>
     <loc>https://theochemui.github.io/nbfc26/planning/</loc>
+  </url><url>
+    <loc>https://theochemui.github.io/nbfc26/registration/</loc>
   </url><url>
     <loc>https://theochemui.github.io/nbfc26/tags/</loc>
   </url><url>

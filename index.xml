@@ -10,11 +10,32 @@
     <webMaster>giale@hi.is (NBFC2026)</webMaster>
     <atom:link href="https://theochemui.github.io/nbfc26/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://theochemui.github.io/nbfc26/abstract-form/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (NBFC2026)</author>
+      <guid>https://theochemui.github.io/nbfc26/abstract-form/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://theochemui.github.io/nbfc26/registration-form/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (NBFC2026)</author>
+      <guid>https://theochemui.github.io/nbfc26/registration-form/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Abstract Submission</title>
+      <link>https://theochemui.github.io/nbfc26/abstract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (NBFC2026)</author>
+      <guid>https://theochemui.github.io/nbfc26/abstract/</guid>
+      <description>Abstract submissions for oral presentations are opened until April 15, 2026, submissions for poster presentations are opened until May 15, 2026.&#xA;Please, use the official template and export to PDF (max size: 10 MB):&#xA;.docx template .tex template The abstract should be uploaded with the filename name_surname_nbfc2026.pdf.&#xA;To submit your abstract, please fill in the submission form.</description>
+    </item>
+    <item>
       <title>Contacts</title>
       <link>https://theochemui.github.io/nbfc26/contacts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (NBFC2026)</author>
       <guid>https://theochemui.github.io/nbfc26/contacts/</guid>
-      <description>Local organizers&#xA;Gianluca Levi Elvar Örn Jónsson Hannes Jónsson E-mail: giale@hi.is, elvarorn@hi.is</description>
+      <description>E-mail: nbfc2026@gmail.com&#xA;Local organizers&#xA;Gianluca Levi (giale@hi.is) Elvar Örn Jónsson (elvarorn@hi.is) Hannes Jónsson </description>
     </item>
     <item>
       <title>Information for Sponsors</title>
@@ -22,13 +43,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (NBFC2026)</author>
       <guid>https://theochemui.github.io/nbfc26/sponsors/</guid>
       <description>The 16th Nordic Baltic Femtochemistry Conference (NBFC) is scheduled to take place from June 29 to July 1, 2026 in Reykjavík, Iceland.&#xA;The Nordic Baltic Femtochemistry Conference has established itself as a recognized platform for the ultrafast science community, typically attracting around 100 participants from the Nordic and Baltic countries, as well as from elsewhere. NBFC 2026, hosted for the first time at the University of Iceland in Reykjavík, will highlight the latest developments in ultrafast chemistry, physics, and materials science, as well as advancements in optical and X-ray techniques and for experiments with atto- and femtosecond resolution.</description>
-    </item>
-    <item>
-      <title>Location</title>
-      <link>https://theochemui.github.io/nbfc26/map/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (NBFC2026)</author>
-      <guid>https://theochemui.github.io/nbfc26/map/</guid>
-      <description>The conference will be held in the Auditorium of Le Village near the city center of Toulouse (local contact Tallulah Finch). The address is 31 Allée Jules Guesde 31000 TOULOUSE. Toulouse is an amazing city with many monuments to visit and food to taste (like cassoulet!). For more info, visit Tourism in Toulouse. Here is a selection of monuments you do not want to miss. Note that there are all within walking distance from the workshop venue:</description>
     </item>
     <item>
       <title>Participants</title>
@@ -52,11 +66,18 @@
       <description>Tuesday, April 8, 2025 TIME EVENT 9:00 - 9:30 Welcome coffee SESSION 1 Chair: Johannes Tölle 9:30 - 10:00 Ida-Marie Høyvik &amp;ndash; Charge localized electronic wave functions for ground and excited states 10:00 - 10:30 Filippo Lippaniri &amp;ndash; An efficient and robust implementation of CASSCF linear response theory 10:30 - 11:00 Coffee break 11:00 - 11:30 Thomas Duguet &amp;ndash; Ab initio description of collective excitations in doubly open-shell nuclei 11:30 - 12:00 Janus Eriksen &amp;ndash; Third-Generation Many-Body Expanded Full Configuration Interaction Theory 12:00 - 12:30 Trygve Helgaker &amp;ndash; A variational reformulation of excitation energies and other molecular properties in electronic-structure theory 12:30 - 14:00 Lunch break &amp;amp; Posters SESSION 2 Chair: Sara Giarrusso 14:00 - 14:30 Fabian Faulstich &amp;ndash; Exploring Ground and Excited States Via Single Reference Coupled-Cluster Theory and Algebraic Geometry 14:30 - 15:00 Mathieu Lewin &amp;ndash; How to define and find excited states in nonlinear models 15:00 - 15:30 15:30 - 16:00 Coffee break 16:00 - 16:30 Eric Cances &amp;ndash; Direct optimization methods for CASSCF ground and excited states 16:30 - 17.</description>
     </item>
     <item>
+      <title>Registration</title>
+      <link>https://theochemui.github.io/nbfc26/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (NBFC2026)</author>
+      <guid>https://theochemui.github.io/nbfc26/registration/</guid>
+      <description>Early-bird registration closes on May 1, 2026.&#xA;To register for the conference, please fill in the registration form.&#xA;Registration fees (EUR) Early bird (until May 1, 2026) After May 1, 2026 Regular 460 € 570 € Student* 310 € 410 € Accompanying person 220 € 220 € *Students are required to attach a copy of their university enrollment certificate or alternatively a copy of their student card during registration.&#xA;The registration fee includes: Participants (regular and students) Access to all scientific sessions Lunches at the university canteen during the conference Coffee breaks Conference dinner (Tuesday, June 30) Accompanying persons Lunches at the university canteen during the conference Conference dinner (Tuesday, June 30) For questions regarding the registration, please contact the organizers at nbfc2026@gmail.</description>
+    </item>
+    <item>
       <title>Venue</title>
       <link>https://theochemui.github.io/nbfc26/venue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (NBFC2026)</author>
       <guid>https://theochemui.github.io/nbfc26/venue/</guid>
-      <description>VENUE The 16th Nordic Baltic Femtochemistry Conference will take place in the lecture hall of the Veröld - House of Vigdís bulding at University of Iceland.&#xA;The address is Brynjólfsgata 1, 107 Reykjavík. HOW TO ARRIVE Keflavík International Airport is located about 55 km or 45 minutes drive from Reykjavík. Airport Direct and Flybus operate transfers from the airport to Reykjavík in connection with all arriving flights. The Flybus runs to the the BSÍ bus terminal in Reykjavík, which is located a 15–20 minute walk from the university campus.</description>
+      <description>The 16th Nordic Baltic Femtochemistry Conference will take place in the lecture hall of the Veröld - House of Vigdís bulding at University of Iceland.&#xA;The address is Brynjólfsgata 1, 107 Reykjavík. HOW TO ARRIVE Keflavík International Airport is located about 55 km or 45 minutes drive from Reykjavík. Airport Direct and Flybus operate transfers from the airport to Reykjavík in connection with all arriving flights. The Flybus runs to the the BSÍ bus terminal in Reykjavík, which is located a 15–20 minute walk from the university campus.</description>
     </item>
   </channel>
 </rss>
