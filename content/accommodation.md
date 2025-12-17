@@ -9,9 +9,9 @@ The [Student Hostel](https://www.studenthostel.is/), located about 5-minute walk
 15 minutes from the centre of Reykjavík, has reserved a number of rooms at discounted rates for conference participants:
 |  | ISK | € |
 |---|---:|---:|
-| Modern Twin room (private bathroom) | 23,715 | ~160 |
+| Twin room (private bathroom) | 23,715 | ~160 |
 | Twin room (shared bathroom) | 21,675 | ~145 |
-| Modern Single room (private bathroom) | 22,015 | ~150 |
+| Single room (private bathroom) | 22,015 | ~150 |
 | Single room (shared bathroom) | 16,915 | ~115 |
 
 **Please, contact the conference organizers ([nbfc2026@gmail.com](mailto:nbfc2026@gmail.com)) to receive the booking link 
