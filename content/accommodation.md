@@ -7,7 +7,7 @@ End of June is already peak tourism season in Reykjavík, so we recommend bookin
 
 The [Student Hostel](https://www.studenthostel.is/), located about 5-minute walk from the conference venue and around 
 15 minutes from the centre of Reykjavík, has reserved a number of rooms at discounted rates for conference participants:
-|  | ISK | € |
+| Discounted prices per night | ISK | € |
 |---|---:|---:|
 | Twin room (private bathroom) | 23,715 | ~160 |
 | Twin room (shared bathroom) | 21,675 | ~145 |
