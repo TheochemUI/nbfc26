@@ -9,7 +9,7 @@ draft: false
 
 [//]: # (* **Apr 2025:** The workshop is over. Thank you everyone for coming!)
 [//]: # (* **Mar 2025:** A workshop is one month away. Everything's looking good. See you soon in Toulouse.)
-[//]: # (* **Feb 2025:** A preliminary version of the program is now available &#40;still subject to change&#41;.)
+* **Mar 2026:** A preliminary version of the **[program](/program/)** is now available.
 * **Dec 2025:** **[Registrations](/registration/)** and **[abstract submissions](/abstract/)** are now open.
 * **Sep 2025:** The **[list of confirmed invited speakers](#speakers)** has been published.
 * **Aug 2025:** The conference website is online.
