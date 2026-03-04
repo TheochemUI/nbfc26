@@ -30,7 +30,7 @@ contribute to advancements in our field.
 
 Thank you for considering our invitation. We look forward to collaborating with you!
 
-**Exhibitor Package 1700 €**
+**Exhibitor Package 1500 €**
 
 Each commercial exhibitor will receive:
 - Two complimentary registrations for the booth attendants, including refreshments, lunches, and attendance to the 
