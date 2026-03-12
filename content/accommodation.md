@@ -7,12 +7,12 @@ End of June is already peak tourism season in Reykjavík, so we recommend bookin
 
 The [Student Hostel](https://www.studenthostel.is/), located about 5-minute walk from the conference venue and around 
 15 minutes from the centre of Reykjavík, has reserved a number of rooms at discounted rates for conference participants:
-| Discounted prices per night | ISK |
+| Discounted prices per night (approx.) | ISK |
 |---|---:|
-| Twin room (private bathroom) | 23,715 |
-| Twin room (shared bathroom) | 21,675 |
-| Single room (private bathroom) | 22,015 |
-| Single room (shared bathroom) | 16,915 |
+| Twin room (private bathroom) | 24,000 |
+| Twin room (shared bathroom) | 22,000 |
+| Single room (private bathroom) | 22,000 |
+| Single room (shared bathroom) | 17,500 |
 
 **Please, contact the conference organizers ([nbfc2026@gmail.com](mailto:nbfc2026@gmail.com)) to receive the booking link 
 and instructions.**
