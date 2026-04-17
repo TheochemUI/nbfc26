@@ -17,5 +17,8 @@ The [Student Hostel](https://www.studenthostel.is/), located about 5-minute walk
 **Please, contact the conference organizers ([nbfc2026@gmail.com](mailto:nbfc2026@gmail.com)) to receive the booking link 
 and instructions.**
 
+Conference participants can also book a room at an 18% discount at one of the [Center Hotels](https://www.centerhotels.com/en) 
+in Reykjavík. Please, **contact the conference organizers** also in this case to receive the booking instructions.
+
 Beware of phishing, ignore messages from alleged agencies claiming they are organizing your stay in Reykjavík. Booking 
 instructions for the Student Hostel rooms at discouted rates will only be sent from [nbfc2026@gmail.com](mailto:nbfc2026@gmail.com).
