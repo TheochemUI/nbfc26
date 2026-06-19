@@ -131,7 +131,7 @@ draft: false
   </tr>
 
   <tr class="session-title">
-    <td colspan="2"><strong>Session 2 – Nonlinear Spectroscopy and Polariton Dynamics</strong></td>
+    <td colspan="2"><strong>Session 2 – Polariton Dynamics and Nonlinear Spectroscopy</strong></td>
   </tr>
   <tr>
     <td class="time">13:30–14:00</td>
