@@ -160,7 +160,7 @@ draft: false
       <td class="poster-number">14</td>
       <td>
         <div><span class="poster-name">Simon Petry</span><span class="poster-affiliation">University of Trieste</span></div>
-        <div class="poster-title"><a href="https://drive.google.com/open?id=1J5WEGqCmfkGB_stMN9x4FKDqGtpqTnCa&amp;usp=drive_fs">Charge-Transfer-Driven Solvation Dynamics of a Photoexcited Organic Chromophore and the Corresponding X-ray Scattering Signal</a></div>
+        <div class="poster-title"><a href="https://drive.google.com/open?id=173JiHX9IMHUZ9_3lAbsyl_Pof9IW7PUv&usp=drive_fs">Simulated Charge-Transfer Driven Solvation Dynamics of a Photoexcited Hemithioindigo Chromophore</a></div>
       </td>
     </tr>
     <tr>
