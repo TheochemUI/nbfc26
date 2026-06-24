@@ -62,7 +62,7 @@ draft: false
 }
 </style>
 
-### Poster Session 1 — Monday, 29 June, 17:00–18:30
+<h3 id="poster-session-1">Poster Session 1 — Monday, 29 June, 17:00–18:30</h3>
 <table class="poster-table">
   <tbody>
     <tr>
@@ -207,8 +207,9 @@ draft: false
     </tr>
   </tbody>
 </table>
+<br>
 
-### Poster Session 2 — Tuesday, 30 June, 15:30–17:00
+<h3 id="poster-session-2">Poster Session 2 — Tuesday, 30 June, 15:30–17:00</h3>
 <table class="poster-table">
   <tbody>
     <tr>
@@ -274,6 +275,7 @@ draft: false
         <div class="poster-title"><a href="https://drive.google.com/open?id=1QuRvXnyFlDoNgXV_dGF-o742XtZG3QYk&amp;usp=drive_fs">Locally Scaled Self-Interaction-Corrected Energy Functionals Applied to Rydberg States</a></div>
       </td>
     </tr>
+    <tr>
       <td class="poster-number">10</td>
       <td>
         <div><span class="poster-name">Anna Kvicalova</span><span class="poster-affiliation">University of Chemistry and Technology, Prague</span></div>

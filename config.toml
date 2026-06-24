@@ -4,10 +4,9 @@ canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
-title = "16th NBFC, June 29 - July 1 2026, University of Iceland"
+title = "16th NBFC, June 29 - July 1 2026"
 [Params]
   hometitle = "16th NORDIC BALTIC FEMTOCHEMISTRY CONFERENCE"
-  # logo="img/ui_logo.png"
   subtitle = "June 29 - July 1 2026, University of Iceland"
   sponsorsTitle = "Sponsored by"
 
