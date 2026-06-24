@@ -248,7 +248,7 @@ draft: false
   </tr>
 <tr class="poster">
   <td class="time">17:00–18:30</td>
-  <td><a href="/nbfc26/posters/#poster-session-1">Poster Session 1</a></td>
+  <td><a href="../posters/#poster-session-1">Poster Session 1</a></td>
 </tr>
 </table>
 <br>
@@ -360,7 +360,7 @@ draft: false
 
 <tr class="poster">
   <td class="time">15:30–17:00</td>
-  <td><a href="/nbfc26/posters/#poster-session-2">Poster Session 2</a></td>
+  <td><a href="../posters/#poster-session-2">Poster Session 2</a></td>
 </tr>
 
   <tr class="lunch">
