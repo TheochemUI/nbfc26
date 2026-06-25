@@ -117,7 +117,7 @@ draft: false
     <tr>
       <td class="poster-number">8</td>
       <td>
-        <div><span class="poster-name">Constantin Jaschke</span><span class="poster-affiliation">University of Munich</span></div>
+        <div><span class="poster-name">Constantin Jaschke</span><span class="poster-affiliation">Ludwig-Maximilians-Universität Munich</span></div>
         <div class="poster-title"><a href="https://drive.google.com/open?id=1ZLhm1rNLUKOMREtrlRRab1vS0joi2GBc&amp;usp=drive_fs">Dynamic Evolution of the Charge-Transfer State in Carotenoid-Based Light-Harvesting</a></div>
       </td>
     </tr>
@@ -138,14 +138,14 @@ draft: false
     <tr>
       <td class="poster-number">11</td>
       <td>
-        <div><span class="poster-name">Tomas Martinek</span><span class="poster-affiliation">University of Chemistry and Technology, Prague</span></div>
+        <div><span class="poster-name">Tomas Martinek</span><span class="poster-affiliation">University of Chemistry and Technology Prague</span></div>
         <div class="poster-title"><a href="https://drive.google.com/open?id=1lyEAUvJApI7EW_begiULD4Vm2KuFMINl&amp;usp=drive_fs">Chirality Changes During Molecular Reactions Followed by Time-Resolved PECD</a></div>
       </td>
     </tr>
     <tr>
       <td class="poster-number">12</td>
       <td>
-        <div><span class="poster-name">Jasmin Matthes</span><span class="poster-affiliation">Heinrich Heine Universität Düsseldorf</span></div>
+        <div><span class="poster-name">Jasmin Matthes</span><span class="poster-affiliation">Heinrich Heine University</span></div>
         <div class="poster-title"><a href="https://drive.google.com/open?id=1mYFq4O3MGroyKqTTn6rccJ4ROdA1SibA&amp;usp=drive_fs">Femtosecond NIR Spectroscopy: Shining Light on (r)ISC-Relevant Excited States in TADF</a></div>
       </td>
     </tr>
@@ -159,22 +159,22 @@ draft: false
     <tr>
       <td class="poster-number">14</td>
       <td>
-        <div><span class="poster-name">Simon Petry</span><span class="poster-affiliation">University of Trieste</span></div>
-        <div class="poster-title"><a href="https://drive.google.com/open?id=173JiHX9IMHUZ9_3lAbsyl_Pof9IW7PUv&usp=drive_fs">Simulated Charge-Transfer Driven Solvation Dynamics of a Photoexcited Hemithioindigo Chromophore</a></div>
+        <div><span class="poster-name">Tereza Navratilova</span><span class="poster-affiliation">University of Chemistry and Technology Prague</span></div>
+        <div class="poster-title"><a href="https://drive.google.com/open?id=1E74FjnCwA6DgjMofB-0lc9qTDkiK6s51&amp;usp=drive_fs">Can We Watch Pyramidal Inversion in Amines? Photoinduced Stereomutation of Nitrogen-Containing Compounds</a></div>
       </td>
     </tr>
     <tr>
       <td class="poster-number">15</td>
       <td>
-        <div><span class="poster-name">Elli Selenius</span><span class="poster-affiliation">University of Iceland</span></div>
-        <div class="poster-title"><a href="https://drive.google.com/open?id=1EHhd3kxMrhOCLJw4rwsGvWK-n-KeaATL&amp;usp=drive_fs">Polar Solvation Dynamics of a Photoexcited Organic Chromophore Revealed by Ultrafast X-ray Scattering Experiments and Molecular Dynamics Simulations</a></div>
+        <div><span class="poster-name">Simon Petry</span><span class="poster-affiliation">University of Trieste</span></div>
+        <div class="poster-title"><a href="https://drive.google.com/open?id=173JiHX9IMHUZ9_3lAbsyl_Pof9IW7PUv&amp;usp=drive_fs">Simulated Charge-Transfer Driven Solvation Dynamics of a Photoexcited Hemithioindigo Chromophore</a></div>
       </td>
     </tr>
     <tr>
       <td class="poster-number">16</td>
       <td>
-        <div><span class="poster-name">Vít Svoboda</span><span class="poster-affiliation">University of Chemistry and Technology, Prague</span></div>
-        <div class="poster-title"><a href="https://drive.google.com/open?id=1NKg60J3Y-3hZYA8inGFc4COMeXL9_hGo&amp;usp=drive_fs">Femtochirality: Following Chiral Dynamics of Chemical Reactions</a></div>
+        <div><span class="poster-name">Elli Selenius</span><span class="poster-affiliation">University of Iceland</span></div>
+        <div class="poster-title"><a href="https://drive.google.com/open?id=1EHhd3kxMrhOCLJw4rwsGvWK-n-KeaATL&amp;usp=drive_fs">Polar Solvation Dynamics of a Photoexcited Organic Chromophore Revealed by Ultrafast X-ray Scattering Experiments and Molecular Dynamics Simulations</a></div>
       </td>
     </tr>
     <tr>
@@ -222,7 +222,7 @@ draft: false
     <tr>
       <td class="poster-number">2</td>
       <td>
-        <div><span class="poster-name">Marta Galyńska</span><span class="poster-affiliation">Nicolaus Copernicus University in Toruń</span></div>
+        <div><span class="poster-name">Marta Galyńska</span><span class="poster-affiliation">Nicolaus Copernicus University Toruń</span></div>
         <div class="poster-title"><a href="https://drive.google.com/open?id=1XfPZ29vPjlqEx-TOIvutAhipoVa2udvf&amp;usp=drive_fs">A Challenge for Quantum Chemistry Methods: A Case Study of a Diamine Cation</a></div>
       </td>
     </tr>
@@ -257,7 +257,7 @@ draft: false
     <tr>
       <td class="poster-number">7</td>
       <td>
-        <div><span class="poster-name">Neda Z. Jahromi</span><span class="poster-affiliation">Nicolaus Copernicus University in Toruń</span></div>
+        <div><span class="poster-name">Neda Z. Jahromi</span><span class="poster-affiliation">Nicolaus Copernicus University Toruń</span></div>
         <div class="poster-title"><a href="https://drive.google.com/open?id=1C9if-LqhvFVQ2L7nzwUE882lugnafZjX&amp;usp=drive_fs">Localized and Delocalized States of Small Diamine Cation</a></div>
       </td>
     </tr>
@@ -278,7 +278,7 @@ draft: false
     <tr>
       <td class="poster-number">10</td>
       <td>
-        <div><span class="poster-name">Anna Kvicalova</span><span class="poster-affiliation">University of Chemistry and Technology, Prague</span></div>
+        <div><span class="poster-name">Anna Kvíčalová</span><span class="poster-affiliation">University of Chemistry and Technology Prague</span></div>
         <div class="poster-title"><a href="https://drive.google.com/open?id=1gBC_njohzs-OUjCEOmT4HiMjEm-zfdtv&amp;usp=drive_fs">Photoelectron Circular Dichroism of Axially Chiral Allene Derivatives</a></div>
       </td>
     </tr>
@@ -299,7 +299,7 @@ draft: false
     <tr>
       <td class="poster-number">13</td>
       <td>
-        <div><span class="poster-name">Vladimir Lipp</span><span class="poster-affiliation">European XFEL, Germany</span></div>
+        <div><span class="poster-name">Vladimir Lipp</span><span class="poster-affiliation">European XFEL</span></div>
         <div class="poster-title"><a href="https://drive.google.com/open?id=1PxQTrPkvXBynsvsKlikEJsmCAw4KArVV&amp;usp=drive_fs">Effect of Attosecond X-ray Pulses on Electronic Damage Suppression in X-ray Diffraction</a></div>
       </td>
     </tr>
@@ -313,47 +313,40 @@ draft: false
     <tr>
       <td class="poster-number">15</td>
       <td>
-        <div><span class="poster-name">Austėja Mikałčiūtė</span><span class="poster-affiliation">Vilnius University</span></div>
+        <div><span class="poster-name">Austėja Mikalčiūtė</span><span class="poster-affiliation">Vilnius University</span></div>
         <div class="poster-title"><a href="https://drive.google.com/open?id=1Bdt4Gzgkzg4vbKRwJDEUDNRO_yiM3a42&amp;usp=drive_fs">Complete Exciton Hamiltonian for Photosynthetic Pigment-Protein Complexes</a></div>
       </td>
     </tr>
     <tr>
       <td class="poster-number">16</td>
       <td>
-        <div><span class="poster-name">Tereza Navratilova</span><span class="poster-affiliation">University of Chemistry and Technology, Prague</span></div>
-        <div class="poster-title"><a href="https://drive.google.com/open?id=1E74FjnCwA6DgjMofB-0lc9qTDkiK6s51&amp;usp=drive_fs">Can We Watch Pyramidal Inversion in Amines? Photoinduced Stereomutation of Nitrogen-Containing Compounds</a></div>
-      </td>
-    </tr>
-    <tr>
-      <td class="poster-number">17</td>
-      <td>
         <div><span class="poster-name">Kazimieras Nomeika</span><span class="poster-affiliation">Light Conversion and Vilnius University</span></div>
         <div class="poster-title"><a href="https://drive.google.com/open?id=1fUh3MV2pjC1ShJcowPpKbfY_DOOe9Rbh&amp;usp=drive_fs">Charge Carrier and Spin Diffusion in a Polycrystalline and Single-Crystal Lead Halide Perovskite Semiconductor</a></div>
       </td>
     </tr>
     <tr>
-      <td class="poster-number">18</td>
+      <td class="poster-number">17</td>
       <td>
         <div><span class="poster-name">Siim Pikker</span><span class="poster-affiliation">University of Tartu</span></div>
         <div class="poster-title"><a href="https://drive.google.com/open?id=1sVEh2R1wDoCzRwFlUsWucmro5BsAiL_B&amp;usp=drive_fs">Maskless Grayscale UV Lithography for High-Throughput Production of Fabry–Pérot Cavities in Strong Coupling Experiments</a></div>
       </td>
     </tr>
     <tr>
-      <td class="poster-number">19</td>
+      <td class="poster-number">18</td>
       <td>
         <div><span class="poster-name">Udit Pramanik</span><span class="poster-affiliation">University of Jyväskylä</span></div>
         <div class="poster-title"><a href="https://drive.google.com/open?id=11ZKAcrVAIMFPsoZMl3vqYtT29LSdhUj1&amp;usp=drive_fs">Geometry-Driven Enhancement of Light-Matter Coupling in Molecular Microcavities</a></div>
       </td>
     </tr>
     <tr>
-      <td class="poster-number">20</td>
+      <td class="poster-number">19</td>
       <td>
-        <div><span class="poster-name">Diego L. Prieto</span><span class="poster-affiliation">University of Iceland</span></div>
+        <div><span class="poster-name">Diego Llorena Prieto</span><span class="poster-affiliation">University of Iceland</span></div>
         <div class="poster-title"><a href="https://drive.google.com/open?id=1OEbCvhbfkvQLD9xl0kT2eSEwzMscur-x&amp;usp=drive_fs">Solvent-Dependent Conformational Dynamics of a Singlet-Fission Molecule in Solution: Insights from Molecular Dynamics Simulations</a></div>
       </td>
     </tr>
     <tr>
-      <td class="poster-number">21</td>
+      <td class="poster-number">20</td>
       <td>
         <div><span class="poster-name">Nikolaos Vassardanis</span><span class="poster-affiliation">Stockholm University</span></div>
         <div class="poster-title"><a href="https://drive.google.com/open?id=1SBqmNje7lPlM6VyZdoKCOTPxqkouLVVE&amp;usp=drive_fs">Nitrogen K-Edge Fingerprints of Phenyl Azide Photodissociation in Ethanol</a></div>

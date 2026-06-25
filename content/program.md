@@ -173,8 +173,8 @@ draft: false
   <tr>
     <td class="time">12:00–12:20</td>
     <td>
-      <div><span class="talk-speaker">Markus Meuwly</span><span class="talk-affiliation">University of Basel</span></div>
-      <div class="talk-title"><a href="https://drive.google.com/open?id=1S0K6AymrPHs1e3LIchpvREMUWVxCIaXR&amp;usp=drive_fs">Elementary Reactions in the Hypersonic Regime: Picosecond Dynamics of Highly Excited Species</a></div>
+      <div><span class="talk-speaker">Vít Svoboda</span><span class="talk-affiliation">University of Chemistry and Technology Prague</span></div>
+      <div class="talk-title"><a href="https://drive.google.com/open?id=1NKg60J3Y-3hZYA8inGFc4COMeXL9_hGo&amp;usp=drive_fs">Femtochirality: Following Chiral Dynamics of Chemical Reactions</a></div>
     </td>
   </tr>
   <tr class="lunch">
@@ -244,7 +244,10 @@ draft: false
   </tr>
   <tr>
     <td class="time">16:50–17:00</td>
-    <td>Light Conversion</td>
+    <td>
+      <div><span class="talk-speaker">Light Conversion</span></div>
+      <div class="talk-title">Jonas Berzinš & Kazimieras Nomeika</div>
+    </td>
   </tr>
 <tr class="poster">
   <td class="time">17:00–18:30</td>
@@ -256,7 +259,7 @@ draft: false
 ### Tuesday, June 30
 <table class="program-table">
   <tr class="session-title">
-    <td colspan="2"><strong>Session 4 – Ultrafast X-ray Science</strong><div class="session-chair">Chair: Klaus B. Møller</div></td>
+    <td colspan="2"><strong>Session 4 – Ultrafast X-ray Science</strong><div class="session-chair">Chair: Klaus Braagaard Møller</div></td>
   </tr>
   <tr>
     <td class="time">9:00–9:30</td>
@@ -320,7 +323,7 @@ draft: false
   </tr>
 
   <tr class="session-title">
-    <td colspan="2"><strong>Session 6 – Theoretical and Computational Modelling for Ultrafast Dynamics 1</strong><div class="session-chair">Chair: Elvar Ö. Jónsson</div></td>
+    <td colspan="2"><strong>Session 6 – Theoretical and Computational Modelling for Ultrafast Dynamics 1</strong><div class="session-chair">Chair: Elvar Örn Jónsson</div></td>
   </tr>
   <tr>
     <td class="time">13:30–14:00</td>
