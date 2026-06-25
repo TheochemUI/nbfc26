@@ -9,11 +9,16 @@ draft: false
 
 [//]: # (* **Apr 2025:** The workshop is over. Thank you everyone for coming!)
 [//]: # (* **Mar 2025:** A workshop is one month away. Everything's looking good. See you soon in Toulouse.)
+* **Jun 2026:** The **[book of abstracts](https://drive.google.com/file/d/1zvk5N2acUkQlOb9zXLRyB2_a1IVmvG6O/view?usp=drive_link)** is now available.
 * **Jun 2026:** The final **[program](/program/)** is now online.
 * **Mar 2026:** A preliminary version of the **[program](/program/)** is now available.
 * **Dec 2025:** **[Registrations](/registration/)** and **[abstract submissions](/abstract/)** are now open.
 * **Sep 2025:** The **[list of confirmed invited speakers](#speakers)** has been published.
 * **Aug 2025:** The conference website is online.
+
+<div style="margin: 1.5rem 0 2rem; font-size: 4rem; font-weight: 700; text-align: center;">
+  <a href="https://drive.google.com/file/d/1zvk5N2acUkQlOb9zXLRyB2_a1IVmvG6O/view?usp=drive_link">Download the Book of Abstracts</a>
+</div>
 
 ### Important dates
 * **April 15, 2026:** Abstract submission deadline for oral presentations
