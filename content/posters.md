@@ -145,8 +145,8 @@ draft: false
     <tr>
       <td class="poster-number">12</td>
       <td>
-        <div><span class="poster-name">Jasmin Matthes</span><span class="poster-affiliation">Heinrich Heine University</span></div>
-        <div class="poster-title"><a href="https://drive.google.com/open?id=1mYFq4O3MGroyKqTTn6rccJ4ROdA1SibA&amp;usp=drive_fs">Femtosecond NIR Spectroscopy: Shining Light on (r)ISC-Relevant Excited States in TADF</a></div>
+        <div><span class="poster-name">Diego Llorena Prieto</span><span class="poster-affiliation">University of Iceland</span></div>
+        <div class="poster-title"><a href="https://drive.google.com/open?id=1OEbCvhbfkvQLD9xl0kT2eSEwzMscur-x&amp;usp=drive_fs">Solvent-Dependent Conformational Dynamics of a Singlet-Fission Molecule in Solution: Insights from Molecular Dynamics Simulations</a></div>
       </td>
     </tr>
     <tr>
@@ -341,8 +341,8 @@ draft: false
     <tr>
       <td class="poster-number">19</td>
       <td>
-        <div><span class="poster-name">Diego Llorena Prieto</span><span class="poster-affiliation">University of Iceland</span></div>
-        <div class="poster-title"><a href="https://drive.google.com/open?id=1OEbCvhbfkvQLD9xl0kT2eSEwzMscur-x&amp;usp=drive_fs">Solvent-Dependent Conformational Dynamics of a Singlet-Fission Molecule in Solution: Insights from Molecular Dynamics Simulations</a></div>
+        <div><span class="poster-name">Jasmin Matthes</span><span class="poster-affiliation">Heinrich Heine University</span></div>
+        <div class="poster-title"><a href="https://drive.google.com/open?id=1mYFq4O3MGroyKqTTn6rccJ4ROdA1SibA&amp;usp=drive_fs">Femtosecond NIR Spectroscopy: Shining Light on (r)ISC-Relevant Excited States in TADF</a></div>
       </td>
     </tr>
     <tr>
