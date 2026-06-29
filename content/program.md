@@ -452,33 +452,26 @@ draft: false
   <tr>
     <td class="time">13:30–14:00</td>
     <td>
-      <div><span class="talk-speaker">Nanna Holmgaard List</span><span class="talk-affiliation">KTH &amp; University of Birmingham</span></div>
-      <div class="talk-title"><a href="https://drive.google.com/open?id=1xo4hIpukU1sKaPE2Vtj8ZAYE3ZCDwciV&amp;usp=drive_fs">From Photochemical Mechanism toward Control: Seam Access, Seam Reactivity and Environmental Gating</a></div>
-    </td>
-  </tr>
-  <tr>
-    <td class="time">14:00–14:30</td>
-    <td>
       <div><span class="talk-speaker">Basile Curchod</span><span class="talk-affiliation">University of Bristol</span></div>
       <div class="talk-title"><a href="https://drive.google.com/open?id=15dAmvaIMq3QzMJlPKdndvuZWzLCpdFpN&amp;usp=drive_fs">On the Description of Photoexcitation in Nonadiabatic Molecular Dynamics</a></div>
     </td>
   </tr>
   <tr>
-    <td class="time">14:30–14:50</td>
+    <td class="time">14:00–14:20</td>
     <td>
       <div><span class="talk-speaker">Francesco Segatta</span><span class="talk-affiliation">University of Bologna</span></div>
       <div class="talk-title"><a href="https://drive.google.com/open?id=1EXVxZAsb2yAmI9grzQkbfj6nW_MfLCrm&amp;usp=drive_fs">Unveiling the Ultrafast Relaxation of Solvated Thymidine with XUV-TRPES Experiments and Simulations</a></div>
     </td>
   </tr>
   <tr>
-    <td class="time">14:50–15:10</td>
+    <td class="time">14:20–14:40</td>
     <td>
       <div><span class="talk-speaker">Mathilde Goullieux</span><span class="talk-affiliation">DESY</span></div>
       <div class="talk-title"><a href="https://drive.google.com/open?id=1cI7BWQCZagoeuFzD4WDMo9MdbCoW0QNc&amp;usp=drive_fs">Ultrafast Radiation Chemistry of Glycine in Aqueous Solution</a></div>
     </td>
   </tr>
   <tr>
-    <td class="time">15:10–15:30</td>
+    <td class="time">14:40–15:00</td>
     <td>
       <div><span class="talk-speaker">Léon Cigrang</span><span class="talk-affiliation">University College London</span></div>
       <div class="talk-title"><a href="https://drive.google.com/open?id=1jfH9-26WsRfDLB7dq7t6k64jueknXFY2&amp;usp=drive_fs">Quantum Dynamics in Explicit Environments</a></div>
@@ -486,7 +479,7 @@ draft: false
   </tr>
 
   <tr class="meta">
-    <td class="time">15:30–15:40</td>
+    <td class="time">15:00–15:10</td>
     <td>Closing Remarks</td>
   </tr>
 </table>
