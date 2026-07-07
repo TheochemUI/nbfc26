@@ -11,7 +11,7 @@ draft: false
 
 ## NEWS
 
-[//]: # (* **Apr 2025:** The workshop is over. Thank you everyone for coming!)
+* **Jul 2026:** The conference is over. Thank you for coming and contributing to its success!
 * **Jun 2026:** The **[book of abstracts](https://drive.google.com/file/d/1zvk5N2acUkQlOb9zXLRyB2_a1IVmvG6O/view?usp=drive_link)** is now available.
 * **Jun 2026:** The final **[program](/program/)** is now online.
 * **Mar 2026:** A preliminary version of the **[program](/program/)** is now available.
