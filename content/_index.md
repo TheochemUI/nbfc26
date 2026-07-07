@@ -5,10 +5,13 @@ draft: false
 
 {{< sponsors >}}
 
+<img src="/img/group_photo.jpg" 
+     alt="NBFC 2026 group photo" 
+     style="display: block; width: 100%; max-width: 900px; height: auto; margin: 0 auto 2rem;">
+
 ## NEWS
 
 [//]: # (* **Apr 2025:** The workshop is over. Thank you everyone for coming!)
-[//]: # (* **Mar 2025:** A workshop is one month away. Everything's looking good. See you soon in Toulouse.)
 * **Jun 2026:** The **[book of abstracts](https://drive.google.com/file/d/1zvk5N2acUkQlOb9zXLRyB2_a1IVmvG6O/view?usp=drive_link)** is now available.
 * **Jun 2026:** The final **[program](/program/)** is now online.
 * **Mar 2026:** A preliminary version of the **[program](/program/)** is now available.
